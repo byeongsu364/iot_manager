@@ -1,0 +1,36 @@
+body {
+  font-family: "Pretendard", sans-serif;
+  background: #f5f6fa;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.card {
+  display: inline-block;
+  padding: 30px 50px;
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+  text-align: left;
+  font-size: 20px;
+  color: #333;
+}
+
+.card p {
+  margin: 10px 0;
+}
+
+.card strong {
+  color: #0077ff;
+}
+
+.time {
+  margin-top: 20px;
+  font-size: 14px;
+  color: gray;
+}
